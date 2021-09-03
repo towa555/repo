@@ -16,6 +16,7 @@ header{
   width: 320px;
   border: none;
   padding: 10px;
+  outline: none;
 
 }
 .navbar{
