@@ -15,18 +15,25 @@ header{
   margin-left: 320px;
   width: 320px;
   border: none;
+  padding: 10px;
 
 }
 .navbar{
-    margin-left: 200px;
+    margin-left: 70px;
 }
+
+aside{
+    position: absolute;
+    margin-left: 400px;
+}
+
 a{
     margin: 10px;
     color: black;
 }
 .cofee{
     position: absolute;
-    top: 185px;
+    top: 195px;
 }
 
 body{
@@ -160,4 +167,10 @@ button{
 }
 h6{
     color: rgb(179, 175, 175);
+}
+.material-icons{
+    font-size: 32px;
+    margin-left: 1320px;
+    position: absolute;
+    color: rgb(145, 18, 145);
 }
